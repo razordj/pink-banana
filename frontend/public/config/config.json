@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2b8a60bc3c639567a7Ff95c6FF92B320A861Ce81",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x2b8a60bc3c639567a7Ff95c6FF92B320A861Ce81",
+  "NETWORK": {
+    "NAME": "Avalanche Fuji Network",
+    "SYMBOL": "avax",
+    "ID": 43113
+  },
+  "NFT_NAME": "TEST TT",
+  "SYMBOL": "TTT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/troglodyte-society-v2",
+  "SHOW_BACKGROUND": true
+}
